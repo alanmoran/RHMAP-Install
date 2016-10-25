@@ -9,12 +9,12 @@ git version 2.5.4 (Apple Git-61)
 
 ```
 
-### Node.js (0.10.30)
-https://nodejs.org/dist/v0.10.30/
+### Node.js (4.4.3)
+https://nodejs.org/download/release/v4.4.3/
 #### Did it work?
 ```
-$ node -v //v0.10.16
-$ npm -v //1.3.8
+$ node -v //v4.4.3
+$ npm -v //2.15.1
 
 ```
 
